@@ -1,9 +1,26 @@
+body {
+    margin: 0;
+}
+
 #nav-div {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     height: 5rem;
     background-color: #494846;
 }
+
+#nav-div button {
+ display: inline-block;
+  position: relative;
+  top: 1px;
+  right: 20px;
+  color: #F2994B;
+  padding: 5px 10px;
+  font-size: 2rem;
+  text-decoration: none;
+  text-transform: uppercase ;
+}
+
 #main-div {
     
     height: 100vh;
