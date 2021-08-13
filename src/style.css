@@ -34,6 +34,33 @@ body {
     width: 50rem;
     text-align: left;
 }
+
+#menu-div {
+    
+    height: 100vh;
+    background-color: #E8E8DB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+#menu-p {
+    margin-top: 5rem;
+    width: 50rem;
+    text-align: center;
+}
+
+#contact-div {
+    
+    height: 100vh;
+    background-color: #E8E8DB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+
 #bougatsa-image {
     margin-top: 5rem;
     width: 30rem;
